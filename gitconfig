@@ -1,0 +1,20 @@
+[color]
+	ui = auto
+
+[core]
+	excludesfile = ~/.cvsignore
+	editor = vim
+
+[status]
+	showUntrackedFiles = all
+
+[user]
+	name = Sakeno Gawa
+	email = sakenogawa@gmail.com
+
+[push]
+	default = matching
+
+[alias]
+    logg = log --graph --oneline
+    last = log -1 --stat --format=fuller

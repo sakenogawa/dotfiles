@@ -1,0 +1,13 @@
+.metadata/
+.cproject
+.project
+.pydevproject
+
+.ropeproject/
+
+*~
+*.swp
+
+# Ignore virtual environments
+/venv*/
+/devenv/
